@@ -1,0 +1,21 @@
+O:\c#\Students Mangement System\Students Mangement System\bin\Debug\Students Mangement System.exe
+O:\c#\Students Mangement System\Students Mangement System\bin\Debug\Students Mangement System.pdb
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students Mangement System.csprojResolveAssemblyReference.cache
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Login.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Properties.Resources.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students Mangement System.csproj.GenerateResource.Cache
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students Mangement System.exe
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students Mangement System.pdb
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_MainForm.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Users.resources
+O:\c#\Students Mangement System\Students Mangement System\bin\Debug\Students Mangement System.exe.config
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Setting.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Students.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Additems.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Course.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Class.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Session.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Registration.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_Bill.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_OldBills.resources
+O:\c#\Students Mangement System\Students Mangement System\obj\Debug\Students_Mangement_System.Frm_StudentsClass.resources
