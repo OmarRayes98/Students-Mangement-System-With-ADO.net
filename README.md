@@ -4,6 +4,7 @@ It's useful if you're new student in sql server and C# .
 Includeing : 
 - A lot of cases in forms to use sql server in most cases .
 - A lot of notes for winforms like ( you should not allow for User to write numbers in Text of his name) etc..
+- Users Permeissions for forms.(User or Manager)
 - The way of coding is dirctly .
 - ERD for system .
 - Link on Youtube to explain Forms .
